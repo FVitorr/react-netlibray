@@ -3,20 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
     "cra-template-typescript": "1.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1"
-=======
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
->>>>>>> cddaaab3367e8da606dcfac9069d9d73781dbabf
+    "styled-components": "^6.0.8",
+    "styled-icons": "^10.47.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -41,12 +33,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
   },
   "devDependencies": {
     "@types/react": "^18.2.22",
-    "@types/react-dom": "^18.2.7"
-=======
->>>>>>> cddaaab3367e8da606dcfac9069d9d73781dbabf
+    "@types/react-dom": "^18.2.7",
+    "typescript": "^5.2.2"
   }
 }
